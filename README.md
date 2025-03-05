@@ -34,9 +34,17 @@
 ![LATEX](https://img.shields.io/badge/-LATEX-000?&logo=latex)
 
 ### 🚀 Projects & Interests
-- **Artificial Intelligence:** Experimenting with machine learning algorithms and deep neural networks to solve real-world problems.
-- **Computer Vision:** Developing innovative applications in image processing and object recognition.
-- **Study Abroad:** Preparing for international study opportunities to expand my academic and cultural horizons.
+  
+- **Deep Learning Applications:** Working on AI-driven solutions for image recognition, object detection, and generative models.  
+- **Optimization & Model Efficiency:** Exploring ways to optimize deep learning models for better performance and efficiency.  
+- **Multimodal AI:** Investigating the integration of vision and language models to enhance AI interaction and understanding.  
+- **Open-Source Contributions:** Actively engaging with open-source projects related to AI and machine learning.  
+- **Cross-Cultural Tech Exchange:** Seeking opportunities to collaborate internationally and understand global perspectives in AI research.  
+
+
+### 😄 Fun fact
+
+In addition to my passion for technology, I love staying active and enjoying life. I enjoy playing badminton, working out to build muscle, and listening to music. These activities keep me energetic and inspire creativity in my projects.
   
 <!--
 - 🔭 I’m currently working on ...
