@@ -33,6 +33,11 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![LATEX](https://img.shields.io/badge/-LATEX-000?&logo=latex)
 
+### 🚀 Projects & Interests
+- **Artificial Intelligence:** Experimenting with machine learning algorithms and deep neural networks to solve real-world problems.
+- **Computer Vision:** Developing innovative applications in image processing and object recognition.
+- **Study Abroad:** Preparing for international study opportunities to expand my academic and cultural horizons.
+  
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
