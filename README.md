@@ -37,8 +37,7 @@
   
 - **Deep Learning Applications:** Working on AI-driven solutions for image recognition, object detection, and generative models.  
 - **Optimization & Model Efficiency:** Exploring ways to optimize deep learning models for better performance and efficiency.  
-- **Multimodal AI:** Investigating the integration of vision and language models to enhance AI interaction and understanding.  
-- **Open-Source Contributions:** Actively engaging with open-source projects related to AI and machine learning.  
+- **Multimodal AI:** Investigating the integration of vision and language models to enhance AI interaction and understanding. Actively engaging with open-source projects related to AI and machine learning.  
 - **Cross-Cultural Tech Exchange:** Seeking opportunities to collaborate internationally and understand global perspectives in AI research.  
 
 
