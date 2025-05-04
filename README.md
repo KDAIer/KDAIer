@@ -24,14 +24,14 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=matlab)
-![Verilog](https://img.shields.io/badge/-Verilog-000?&logo=verilog)
-![Shell](https://img.shields.io/badge/-Shell-000?&logo=gnu-bash)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=matlab&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-000?logo=verilog&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -39,17 +39,17 @@
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=FCC624)
-![Vivado](https://img.shields.io/badge/-Vivado-000?&logo=xilinx)
-![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Vivado](https://img.shields.io/badge/-Vivado-FF6F00?logo=xilinx&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
 </div>
 
