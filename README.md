@@ -74,7 +74,7 @@
 </a>
 
 </div>
--->
+
 ---
 
 ## 🐍 Contributions Graph Snake  
@@ -90,7 +90,7 @@
 </div>
 
 ---
-
+-->
 ## 🚀 Projects & Interests  
 
 - 💡 **Deep Learning Applications:** AI-driven solutions for image recognition, object detection, and generative models  
