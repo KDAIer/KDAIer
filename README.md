@@ -9,7 +9,14 @@
 ### 💻 Tech Stack
 
 <!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDAIer&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDAIer&layout=compact&langs_count=100&hide_border=true" />
+  </a>
+
+</div>
 
 
 <!-- Github Activity Graph -->
