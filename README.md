@@ -8,23 +8,21 @@
 
 ### 💻 Tech Stack
 
-
-<!-- <img width="200%" src="assets/hr.gif" /> -->
-
 <!-- Most Used Languages -->
+[![KDAIer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDAIer)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KDAIer=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Github Activity Graph -->
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDAIer&theme=react" /> 
+</div>
 
-<!-- <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJL196&theme=react" /> </div> -->
-
-<!--Contributions Graph--->
-
+<!-- Contributions Graph Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CJL196/CJL196/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CJL196/CJL196/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KDAIer/KDAIer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KDAIer/KDAIer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KDAIer/KDAIer/output/github-snake.svg" />
 </picture>
+
 
 **Programming Language**
 
