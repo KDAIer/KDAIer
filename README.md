@@ -50,6 +50,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
