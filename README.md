@@ -67,9 +67,7 @@
 -->
 <div align="center">
 
-<a href="https://github.com/KDAIer">
-  <img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=✨ KDAIer GitHub Stats ✨" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 
 
 <!-- 语言占比图 -->
