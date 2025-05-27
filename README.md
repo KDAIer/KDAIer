@@ -60,12 +60,15 @@
 
 ## 📊 Most Used Languages  
 
-
-<div align="center">
-
-<!-- GitHub 个人资料卡 -->
+<!-- GitHub 个人资料卡 
 <a href="https://github.com/KDAIer">
   <img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true" />
+</a>
+-->
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=✨ KDAIer GitHub Stats ✨" />
 </a>
 
 <!-- 语言占比图 -->
@@ -73,11 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDAIer&layout=compact&langs_count=6&hide_border=true" />
 </a>
 
-
-<!-- GitHub 活跃度图 -->
-<a href="https://github.com/KDAIer">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDAIer&theme=radical&hide_border=true" />
-</a>
 
 </div>
 
