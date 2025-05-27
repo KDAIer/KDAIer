@@ -67,8 +67,10 @@
 -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-
+<!-- GitHub 统计 -->
+<a href="https://github.com/KDAIer">
+  <img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true" width="400"/>
+</a>
 
 <!-- 语言占比图 -->
 <a href="https://github.com/KDAIer">
