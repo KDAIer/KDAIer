@@ -67,10 +67,12 @@
 -->
 <div align="center">
 
-<!-- GitHub 统计 -->
-<a href="https://github.com/KDAIer">
-  <img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true" width="400"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true" />
+</picture>
+
 
 <!-- 语言占比图 -->
 <a href="https://github.com/KDAIer">
