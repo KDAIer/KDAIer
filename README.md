@@ -60,10 +60,11 @@
 
 ## 📊 Commits 
 
-<!-- GitHub 个人资料卡 -->
+<!-- GitHub 个人资料卡 
 <a href="https://github.com/KDAIer">
   <img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true" />
 </a>
+-->
 
 <div align="center">
 
@@ -93,7 +94,7 @@
 </a>
 
 </div>
-
+-->
 ---
 
 ## 🐍 Contributions Graph Snake  
@@ -109,7 +110,7 @@
 </div>
 
 ---
--->
+
 ## 🚀 Projects & Interests  
 
 - 💡 **Deep Learning Applications:** AI-driven solutions for image recognition, object detection, and generative models  
