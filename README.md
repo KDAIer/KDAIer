@@ -83,7 +83,6 @@
 
 </div>
 
----
 <!--
 ## 📈 GitHub Stats  
 
@@ -95,9 +94,6 @@
 
 </div>
 -->
----
-
-## 🐍 Contributions Graph Snake  
 
 <div align="center">
 
