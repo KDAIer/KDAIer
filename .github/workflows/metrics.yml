@@ -1,19 +1,43 @@
 name: Metrics
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  schedule:
+    - cron: '0 0 * * *'   # 每天 UTC 00:00 运行（北京时间 08:00）
+  workflow_dispatch:      # 手动触发
+  push:
+    branches:
+      - master
+      - main
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
+
     permissions:
-      contents: write
+      contents: write       # 允许写入 SVG 文件
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci            # 可选：如果你在项目中有 package.json
+
+      - name: Generate GitHub metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}  # 在 Settings > Secrets 中添加 METRICS_TOKEN
+          settings: settings.json              # 指向第 1 步中创建的配置文件
+
+      - name: Commit and push metrics
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update GitHub metrics"
+          file_pattern: metrics.svg
