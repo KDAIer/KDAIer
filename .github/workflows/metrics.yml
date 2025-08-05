@@ -13,8 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 主 metrics 图
-      - name: Generate main metrics
+      - name: left
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -31,14 +30,14 @@ jobs:
           plugin_stars_limit: 3
           config_timezone: Asia/Shanghai
 
-      # Achievements 插件图（紧凑展示）
-      - name: Recent activity charts
-        uses: KDAIer/metrics@latest
+      - name: right
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
+          plugin_achievements_limit: 8
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
