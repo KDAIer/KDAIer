@@ -17,7 +17,7 @@
   </a>
   &emsp;
   <a href="#">
-    <img width="500" align="top" src="/charts.svg" />
+    <img width="400" align="top" src="/charts.svg" />
   </a>
 </p>
 
