@@ -10,8 +10,19 @@
 
 </div>
 
----
 
+<p align="center">
+  <a href="#">
+    <img width="400" align="top" src="/github-metrics.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="500" align="top" src="/charts.svg" />
+  </a>
+</p>
+
+---
+<!--
 ## 🎯 About Me  
 
 - 🎓 Studying at **Sun Yat-sen University**, majoring in **Computer Science and Technology**
@@ -60,11 +71,11 @@
 
 ## 📊 Commits 
 
-<!-- GitHub 个人资料卡 
+ GitHub 个人资料卡 
 <a href="https://github.com/KDAIer">
   <img src="https://github-readme-stats.vercel.app/api?username=KDAIer&show_icons=true&theme=radical&hide_border=true" />
 </a>
--->
+
 
 <div align="center">
 
@@ -75,7 +86,7 @@
 </picture>
 
 
-<!-- 语言占比图 -->
+语言占比图 
 <a href="https://github.com/KDAIer">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDAIer&layout=compact&langs_count=6&hide_border=true" />
 </a>
@@ -83,7 +94,7 @@
 
 </div>
 
-<!--
+
 ## 📈 GitHub Stats  
 
 <div align="center">
@@ -104,25 +115,18 @@
 </picture>
 
 </div>
-
----
-
+<!--
+<div align="center">
 ## 🚀 Projects & Interests  
-
 - 💡 **Deep Learning Applications:** AI-driven solutions for image recognition, object detection, and generative models  
 - ⚡ **Optimization & Model Efficiency:** Researching ways to make deep learning models faster and more efficient  
 - 🔥 **Multimodal AI:** Exploring vision-language models for enhanced interaction and understanding  
 - 🌏 **Cross-Cultural Tech Exchange:** Seeking global collaborations and perspectives in AI research  
-
----
-
 ## 😄 Fun Fact  
-
 Besides my passion for technology, I love:
 - 🏸 Playing badminton
 - 🏋️‍♂️ Working out and building muscle
 - 🎵 Listening to music
-
 These activities keep me energized and creatively inspired!
-
----
+</div>
+-->
