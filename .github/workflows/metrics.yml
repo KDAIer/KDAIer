@@ -27,9 +27,6 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install dependencies
-        run: npm ci            # 可选：如果你在项目中有 package.json
-
       - name: Generate GitHub metrics SVG
         uses: lowlighter/metrics@latest
         with:
