@@ -1,26 +1,19 @@
 name: Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"  # daily at midnight
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate metrics.svg
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: introduction,achievements,recent_activity,coding_activity,languages_activity,projects
-
-      - name: Commit and push metrics
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.svg
-          git commit -m "chore: update GitHub metrics" || echo "No changes to commit"
-          git push
