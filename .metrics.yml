@@ -1,0 +1,10 @@
+template: classic
+
+plugins:
+  achievements:   true   # 🏆 成就
+  recents:       false   # （和 activity 二选一）若要图表格式可打开 recents
+  activity:       true   # 📰 最近活动
+  habits:         true   # 💡 编码习惯与活跃度
+  introduction:   true   # 🙋 个人简介
+  languages:      true   # 🈷️ 语言使用统计
+  projects:       true   # 🗂️ GitHub 项目
