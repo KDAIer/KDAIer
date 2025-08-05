@@ -33,7 +33,7 @@ jobs:
 
       # Achievements 插件图（紧凑展示）
       - name: Recent activity charts
-        uses: KDAIer/metrics@latest
+        uses: KDAIer/metrics@master
         with:
           filename: charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
