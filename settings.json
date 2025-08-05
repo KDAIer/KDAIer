@@ -1,0 +1,14 @@
+{
+  // 选择要启用的插件（plugins），键名即为插件标识
+  "plugins": {
+    "achievements": {},     // 🏆 成就 :contentReference[oaicite:0]{index=0}
+    "activity": {},         // 📰 近期活动 :contentReference[oaicite:1]{index=1}
+    "habits": {},           // 💡 编码习惯与活跃度 :contentReference[oaicite:2]{index=2}
+    "introduction": {},     // 🙋 介绍 :contentReference[oaicite:3]{index=3}
+    "languages": {},        // 🈷️ 语言活跃度 :contentReference[oaicite:4]{index=4}
+    "projects": {}          // 🗂️ 项目概览 :contentReference[oaicite:5]{index=5}
+  },
+  // 其它可选配置项（如主题、样式等）可按需添加
+  "template": "classic",
+  "output": ["metrics.svg"]
+}
