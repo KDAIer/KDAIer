@@ -39,11 +39,11 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 27 repositories
+                            Contributed to 28 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            385 Commits
+                            390 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -153,14 +153,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.52262070745093" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="203.52262070745093" y="0" width="138.9090904820959" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="342.43171118954683" y="0" width="56.62587908096638" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="399.0575902705132" y="0" width="19.875243268727345" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="418.9328335392405" y="0" width="16.399859150360808" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="435.3326926896013" y="0" width="15.550002722760324" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="450.8826954123616" y="0" width="5.494797472867437" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="456.37749288522906" y="0" width="3.622507114770879" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.82324815232855" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="207.82324815232855" y="0" width="136.57985486483364" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="344.40310301716215" y="0" width="55.67637308422836" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="400.07947610139047" y="0" width="19.541974046658403" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="419.6214501480489" y="0" width="16.124865369042883" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.7463155170918" y="0" width="15.289259382891956" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="451.0355748999837" y="0" width="5.402660392860457" height="8" fill="#3A4E3A"/>
+                    <rect mask="url(#languages-bar)" x="456.4382352928442" y="0" width="3.5617647071557497" height="8" fill="#336790"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -172,7 +172,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>3.01 MB</div>
+                                <div>3.13 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PKU-Baichuan-MLSystemLab/CFBench</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CFBench: A Comprehensive Constraints-Following Benchmark for LLMs</div>
@@ -321,7 +321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -374,7 +374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antvis/G6</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">♾ A Graph Visualization Framework in JavaScript.</div>
